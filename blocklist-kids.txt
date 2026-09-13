@@ -4,8 +4,9 @@
 ! Expires: 29 days
 ! Syntax: AdBlock
 ! Last updated: 13 Sep 2026 18:37 UTC 
-! Number of entries: 4
+! Number of entries: 5
 ||poki.com^
 ||spielaffe.de^
 ||spielaffe.org^
 ||kids.lego.com^
+||1001spiele.de^
