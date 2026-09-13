@@ -1,0 +1,11 @@
+! Title: Blocklist for kids
+! Description: Cleans internet from online games my kids want to play
+! Homepage: https://github.com/Goeste/blocklist-kids
+! Expires: 29 days
+! Syntax: AdBlock
+! Last updated: 13 Sep 2026 18:37 UTC 
+! Number of entries: 4
+||poki.com^
+||spielaffe.de^
+||spielaffe.org^
+||kids.lego.com^
